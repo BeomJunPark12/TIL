@@ -2,4 +2,4 @@
 - [프레임워크](https://github.com/BeomJunPark12/TIL/blob/main/Spring/framework.md)
 - [DispatcherServlet](https://github.com/BeomJunPark12/TIL/blob/main/Spring/DispatcherServlet.md)
 - [transaction](https://github.com/BeomJunPark12/TIL/blob/main/Spring/transaction.md)
--[maven, pojo](https://github.com/BeomJunPark12/TIL/blob/main/Spring/mavenPojo.md)
+- [maven, pojo](https://github.com/BeomJunPark12/TIL/blob/main/Spring/mavenPojo.md)
