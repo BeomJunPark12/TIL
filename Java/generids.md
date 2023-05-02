@@ -15,3 +15,25 @@ tvList.add(new Audio());    // 컴파일 에러, Tv외에 다른 타입은 저�
 1. 타입 안정성을 제공한다.
 2. 타입체크와 형변환을 생략할 수 있어서 코드가 간결해진다.
 ```
+
+# 제네릭 다형성
+```java
+import java.util.*;
+
+class Product{}
+class Tv extends Product{}
+class Audio extends Product{}
+
+class ex {
+    public static void main(String[] args) {
+        ArratList<Product> productList = new ArrayList<Product>();
+        list.add(new Product());
+        list.add(new Tv()); // ok
+        list.add(new Audio()); // ok
+
+
+    }
+}
+
+```
+
