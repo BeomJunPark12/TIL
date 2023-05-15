@@ -4,3 +4,4 @@
 - [인터페이스](https://github.com/BeomJunPark12/TIL/blob/main/Java/interface.md)
 - [제어자](https://github.com/BeomJunPark12/TIL/blob/main/Java/modifier.md)
 - [제네릭스](https://github.com/BeomJunPark12/TIL/blob/main/Java/generids.md)
+- [메모리](https://github.com/BeomJunPark12/TIL/blob/main/Java/memory.md)
